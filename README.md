@@ -17,3 +17,7 @@ appinfra        ▶ Python infrastructure foundation
 ```
 
 Agent operation ▶ runtime feedback ▶ model improvement
+
+---
+
+📝 [Blog](https://serendip-ml.github.io) — Research notes and updates
