@@ -1,23 +1,9 @@
-## Agents That Learn
+# Building LLM Works
 
-**Memorization != Learning**
+**AI is systems engineering.** Production agent infrastructure with off-LLM guarantees.
 
-Production-grade infrastructure for LLM agents that improve over time.
+Trait-based agents · verb-vocabulary LLM interaction · off-LLM verification loops · multi-backend inference · persistent memory · local Qwen3.5-27B on RTX PRO 6000.
 
-```
-llm-gent        ▶ Multi-agent coordination
-    ▲
-llm-saia        ▶ Verb vocabulary for LLM agents
-    ▲
-llm-kelt        ▶ Feedback collection + LoRA fine-tuning
-    ▲
-llm-infer       ▶ Inference server (vLLM, Ollama, native)
-    ▲
-appinfra        ▶ Python infrastructure foundation
-```
+**Live:** [news.llm-works.ai](https://news.llm-works.ai) · [xray.llm-works.ai](https://xray.llm-works.ai)
 
-Agent operation ▶ runtime feedback ▶ model improvement
-
----
-
-📝 [Blog](https://serendip-ml.github.io) — Research notes and updates
+→ 📝 [Blog](https://llm-works.ai/blog/) · [llm-works.ai](https://llm-works.ai)
