@@ -12,7 +12,7 @@
 
 ---
 
-## 📚 Open substrate stack
+## 📚 Open source stack
 
 | Package | What it does |
 |---------|--------------|
@@ -26,4 +26,4 @@
 
 ---
 
-📝 [Blog](https://llm-works.ai/blog/)&emsp;·&emsp;🌐 [llm-works.ai](https://llm-works.ai)&emsp;·&emsp;🏭 [github.com/llm-works](https://github.com/llm-works)
+📝 [Blog](https://llm-works.ai/blog/)&emsp;·&emsp;🌐 [llm-works.ai](https://llm-works.ai)&emsp;·&emsp;🏢 [github.com/llm-works](https://github.com/llm-works)
