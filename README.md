@@ -1,12 +1,12 @@
-# LLM Works — Production AI agent infrastructure
+# Production AI agent infrastructure
 
-**AI is systems engineering.** The hardest part of production AI agents is the infrastructure around the models — off-LLM guarantees, verification loops, response guards, per-role model routing.
+**AI is systems engineering.** The hardest part of production AI agents is the infrastructure around the models: off-LLM guarantees, verification loops, response guards, per-role model routing.
 
 ---
 
 **Live products:**
-- [news.llm-works.ai](https://news.llm-works.ai) — AI news aggregation across 70+ sources with theme clustering, daily digests, and persona-based presentation
-- [xray.llm-works.ai](https://xray.llm-works.ai) — Decision-grade deep research with calibrated verdicts through adversarial + hypothesis + grader verification loops, plan-as-protagonist architecture, knowledge-graph synthesis
+- 📰 [news.llm-works.ai](https://news.llm-works.ai): AI news aggregation across 70+ sources with theme clustering, daily digests, and persona-based presentation
+- 🔬 [xray.llm-works.ai](https://xray.llm-works.ai): Decision-grade deep research with calibrated verdicts through adversarial + hypothesis + grader verification loops, plan-as-protagonist architecture, knowledge-graph synthesis
 
 ---
 
@@ -24,4 +24,4 @@
 
 ---
 
-→ 📝 [Blog](https://llm-works.ai/blog/) · [llm-works.ai](https://llm-works.ai) · [github.com/llm-works](https://github.com/llm-works)
+→ 📝 [Blog](https://llm-works.ai/blog/)  ·  🌐 [llm-works.ai](https://llm-works.ai)  ·  🏭 [github.com/llm-works](https://github.com/llm-works)
